@@ -32,6 +32,9 @@ The findings were used to power the portfolio project:
 | File | Purpose |
 |------|---------|
 | `notebook.ipynb` | Full analysis notebook with score calculations and visualizations |
+| `emplozees.csv` | Employees dataset |
+| `managers.csv` | Managers dataset |
+| `requirements.txt` | Requirements file |
 
 ---
 
