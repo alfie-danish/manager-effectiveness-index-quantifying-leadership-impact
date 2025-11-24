@@ -83,7 +83,7 @@ jupyter notebook notebook.ipynb
 | Resource | Link |
 |---------|------|
 | Full Case Study | [Notion](https://www.notion.so/Manager-Effectiveness-Index-Quantifying-Leadership-Impact-2037d818e5c980fcbb13d1ced74915ea?source=copy_link) |
-| Portfolio Project Page | [Website](Framer link) |
+| Portfolio Project Page | [Website](https://www.alfiedanish.com/projects/manager-effectiveness-index-quantifying-leadership-impact) |
 
 ---
 
